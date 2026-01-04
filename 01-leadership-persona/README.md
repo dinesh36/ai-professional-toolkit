@@ -98,7 +98,7 @@ Don't limit yourself to famous leaders. You can create:
 - "The best project manager I worked with"
 - "A mentor who helped me navigate office politics"
 
-[See custom persona template →](./personas/custom-persona-template.md)
+[See custom persona template →](./persona/custom-persona.md)
 
 ## ⚠️ Important Limitations
 
@@ -113,11 +113,6 @@ Don't limit yourself to famous leaders. You can create:
 - ✅ A framework to think more strategically
 
 **Remember:** AI provides perspectives, but YOU make the decision. Use your judgment, consider your specific context, and take responsibility for outcomes.
-
-## 📚 Use Cases Covered
-
-- [Team Conflict Resolution](./use-cases/team-conflict.md)
-- [Performance Management](./use-cases/performance-management.md)
 
 ## 🤝 Contributing
 
